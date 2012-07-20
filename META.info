@@ -1,0 +1,7 @@
+{
+    "name"        : "Text::Abbrev",
+    "version"     : "0.1.0",
+    "description" : "Create an abbreviation table from a list",
+    "depends"     : [],
+    "source-url"  : "git://github.com/GlitchMr/perl6-Text-Abbrev.git"
+}
