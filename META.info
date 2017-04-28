@@ -1,6 +1,7 @@
 {
     "perl"        : "6.*",
     "name"        : "Text::Abbrev",
+    "license"     : "BSD-2-Clause",
     "version"     : "0.1.0",
     "description" : "Create an abbreviation table from a list",
     "depends"     : [],
